@@ -51,38 +51,23 @@ After the data cleaning process, exploratory analysis on the dataset is performe
 - <b>New vs Old Customers Job Industry Distribution</b><br> 
   - Most New customers are from the Manufacturing and Financial Services sector (approx 20% of the New Customers).
   - The lowest number of customers are from the Agriculture and Telecom sector approx 3%.
-  - Similar trend is observed among Old Customers as well.<br>
-  <table>
-  <tr>
-    <td><b>Old Customers by Job Industry</b></td>
-    <td><b>New Customers by Job Industry</b></td>
-  </tr>
-  <tr>
-    <td><img src="data%20visualization/Old%20Customers%20Job%20Industry.PNG" height="400" align="middle"></td>
-    <td><img src="data%20visualization/New%20Customers%20Job%20Industry.PNG" height="400" align="middle"></td>
-  </tr>
-  </table>
+  - Similar trend is observed among Old Customers as well.
+  - <img width="1105" height="338" alt="image" src="https://github.com/user-attachments/assets/33699252-481c-4f01-a0c0-50d9db3c851f" />
+
 
 - <b>Wealth Segmentation by Age Category</b><br> 
   - Across all age categories the largest number of customers are from 'Mass Customer' Segment
   - The next category comes from the 'High Net Worth' customers.
-  - In the age group 40-49, Affluent segment out performs the High Net Worth customers in terms of number of customers.<br>
-  <table>
-  <tr>
-    <td><b>Old Customers Wealth by Age Group</b></td>
-    <td><b>New Customers Wealth by Age Group</b></td>
-  </tr>
-  <tr>
-    <td><img src="data%20visualization/Old%20Customers%20Wealth%20Segment.PNG" height="400" align="middle"></td>
-    <td><img src="data%20visualization/New%20Customer%20Wealth%20Segment.PNG" height="400" align="middle"></td>
-  </tr>
-  </table>
+  - In the age group 40-49, Affluent segment out performs the High Net Worth customers in terms of number of customers.
+    <img width="1101" height="337" alt="image" src="https://github.com/user-attachments/assets/178bf548-65f8-4f51-a933-4d9696aa7514" />
+
 
 - <b>Cars owned by States</b><br> 
   - New South Wales has the largest number of people who donot own a car.
   - In Victoria the proportion is quite even.
   - In Queensland the number of people owning a car is greater than who donot have a car.
-  <img src="data%20visualization/Car%20Owners%20by%20State.PNG" height="400" align="middle">
+  <img width="593" height="453" alt="image" src="https://github.com/user-attachments/assets/d3ce476d-6ec9-45b2-9810-d10aa2612499" />
+
 
 
 ### 3. RFM Analysis and Customer Segmentation
@@ -102,16 +87,17 @@ In this analysis the customer segment was divided into 11 groups. The groups bei
 - Almost lost Customers
 
 As of the current state of the Automobile business the current distribution of customers segments is depicted below:
-<img src="data%20visualization/Customer%20Segment%20Distribution.PNG" height="400" align="middle">
+<img width="960" height="457" alt="image" src="https://github.com/user-attachments/assets/87ec3027-8bb8-4fb4-b407-94aa4cb51172" />
 
 ### 4. RFM Analysis: Scatter Plots
 #### Recency vs Monetary :
-The visualization shows that recent customers have purchased more products and generated relatively more revenue than the customers who visited a while ageo.<br>
-<img src="data%20visualization/Recency%20vs%20Monetary.PNG" height="400" align="middle"><br>
+The visualization shows that recent customers have purchased more products and generated relatively more revenue than the customers who visited a while ago.
+<img width="696" height="420" alt="image" src="https://github.com/user-attachments/assets/f0fdc7e1-cc61-4ac3-978e-81388b88d2ab" />
 
 #### Frequency vs Monetary : 
-The visualization shows that customers belonging to Platinum/ Very Loyal/ Becoming Loyal Customer Segments have a greater frequency and generate greater monetary for the business<br>
-<img src="data%20visualization/Frequency%20vs%20Monetary.PNG" height="400" align="middle"><br>
+The visualization shows that customers belonging to Platinum/ Very Loyal/ Becoming Loyal Customer Segments have a greater frequency and generate greater monetary for the business
+<img width="770" height="428" alt="image" src="https://github.com/user-attachments/assets/2a2560bb-06bf-459a-ad97-43911e4e3b48" />
+
 
 ## Datasets Used
 The datasets used include:
